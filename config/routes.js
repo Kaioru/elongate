@@ -34,6 +34,11 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
+  },
+
+  '/:key': {
+    controller: "LinkController",
+    action: "redirect"
   }
 
   /***************************************************************************
