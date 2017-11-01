@@ -19,3 +19,10 @@ Idk. I just wanted to play with sails.js
 `sails lift`
 
 And then head to `localhost:1337` and start elongating your urls.
+
+## Contributing
+Elongate is a quick and dirty project I randomly whipped up.
+
+The code isn't the prettiest.
+
+But feel free to pr and contribute if you like, :heart:
