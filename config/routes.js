@@ -39,6 +39,11 @@ module.exports.routes = {
   '/:key': {
     controller: "LinkController",
     action: "redirect"
+  },
+
+  '/create/:target': {
+    controller: "LinkController",
+    action: "create"
   }
 
   /***************************************************************************
