@@ -10,3 +10,12 @@ I gotchu fam.
 
 ## Why?
 Idk. I just wanted to play with sails.js
+
+## How to use
+`git clone https://github.com/Kaioru/elongate && cd elongate`
+
+`npm install -g sails`
+
+`sails lift`
+
+And then head to `localhost:1337` and start elongating your urls.
