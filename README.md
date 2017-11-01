@@ -25,4 +25,4 @@ Elongate is a quick and dirty project I randomly whipped up.
 
 The code isn't the prettiest.
 
-But feel free to pr and contribute if you like, :heart:
+But feel free to pr and contribute if you like. :heart:
