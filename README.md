@@ -7,3 +7,6 @@ Ever wanted to make your URL's longer?
 Look no further.
 
 I gotchu fam.
+
+## Why?
+Idk. I just wanted to play with sails.js
