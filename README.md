@@ -11,6 +11,11 @@ I gotchu fam.
 ## Why?
 Idk. I just wanted to play with sails.js
 
+## Disclaimer
+No this doesn't expand links like bit.ly, goo.gl or other shorteners.
+
+Elongate literally just makes your links uglier, longer and harder (to read).
+
 ## How to use
 `git clone https://github.com/Kaioru/elongate && cd elongate`
 
